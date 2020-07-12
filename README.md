@@ -2,6 +2,7 @@
 Documentation for Taso bot
 
 Table of Contents:
+
     * [Commands](/commands/cmds.md)
         * [Administrative Commands](/commands/administrative_cmds.md)
         * [User Commands](/commands/user_cmds.md)
