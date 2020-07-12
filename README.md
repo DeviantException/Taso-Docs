@@ -19,22 +19,3 @@ All required arguments in a command will be enclosed in `<angle brackets like th
 Any optional arguments for a command will be enclosed in `[square brackets like this]`.
 
 When you see a vertical pipe like this `|` means you can use anything on either side of it as an argument in the command.
-
-**Example:**
-
-The command to clean messages will be documented like this: `-clean <number>|<user> <number>`. The vertical pipe means you can run the command in any of the following ways:
-  * `-clean 20` (cleans 20 messages from the channel)
-  * `-clean @user1234 15` (cleans 15 messages from the designated user in the channel)
-  * `-clean 000000000000000000 15` (cleans 15 messages from the designated user in the channel)
-
-When you see `<user>` in a command structure you can use either the user ID or mention. If you see `<user>...` in a command structure you can pass multiple users into that command.
-
-**Example:**
-
-The command to warn a user will be documented like this: `-warn <user>... [reason]`. This means you can run the command in any of the following ways:
-  * `-warn @user#1234`
-  * `-warn 000000000000000000`
-  * `-warn @user#1234 sent bot commands in wrong channel`
-  * `-warn 000000000000000000 sent bot commands in wrong channel`
-  * `-warn @user#1234 @user#5678 sent bot commands in wrong channel`
-  * `-warn 000000000000000000 000000000000000000 sent bot commands in wrong channel`
