@@ -2,10 +2,10 @@
 
 There are four different types of command categories that members can interact with. You can find more information about those commands here:
 
-    * [Server Currency Earning Commands](/commands/server_currency_earning_cmds.md)
-    * [Server Shop Commands](/commands/server_shop_cmds.md)
-    * [Currency Gaming Commands](/commands/currency_gaming_cmds.md)
-    * [Leveling Commands](/commands/leveling_cmds.md)
+    * [Server Currency Earning Commands](/commands/users/server_currency_earning_cmds.md)
+    * [Server Shop Commands](/commands/users/server_shop_cmds.md)
+    * [Currency Gaming Commands](/commands/users/currency_gaming_cmds.md)
+    * [Leveling Commands](/commands/users/leveling_cmds.md)
 
 
 ## Server Currency Earning Commands
