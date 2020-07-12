@@ -10,4 +10,4 @@
 
 ## User Commands
 
-[These](/user/user_cmds.md) are the commands that normal members of the server can use to interact with the bot. They allow the user to earn currency, spend server currency on shop items, view their activity xp level within the server, and gamble server currency for a chance to earn more.
+[These](/commands/user_cmds.md) are the commands that normal members of the server can use to interact with the bot. They allow the user to earn currency, spend server currency on shop items, view their activity xp level within the server, and gamble server currency for a chance to earn more.
