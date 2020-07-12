@@ -2,15 +2,14 @@
 Documentation for Taso bot
 
 Table of Contents:
-
-    * [Commands](/commands/cmds.md)
-        * [Administrative Commands](/commands/administrative_cmds.md)
-        * [User Commands](/commands/user_cmds.md)
-                * [Server Currency Commands](/commands/user/server_currency_earning_cmds.md)
-                * [Server Shop Commands](/commands/user/server_shop_cmds.md)
-                * [Currency Gaming Commands](/commands/user/currency_gaming_cmds.md)
-                * [Leveling Commands](/commands/user/leveling_cmds.md)
-        * [Bot Maintainer Commands](/commands/bot_maintainer_cmds.md)
+* [Commands](/commands/cmds.md)
+  * [Administrative Commands](/commands/administrative_cmds.md)
+  * [User Commands](/commands/user_cmds.md)
+    * [Server Currency Commands](/commands/user/server_currency_earning_cmds.md)
+    * [Server Shop Commands](/commands/user/server_shop_cmds.md)
+    * [Currency Gaming Commands](/commands/user/currency_gaming_cmds.md)
+    * [Leveling Commands](/commands/user/leveling_cmds.md)
+  * [Bot Maintainer Commands](/commands/bot_maintainer_cmds.md)
 
 ### How to Read This Documentation
 All commands referenced in this documentation will use the default prefix of `-`.
